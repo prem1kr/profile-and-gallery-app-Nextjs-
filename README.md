@@ -58,8 +58,8 @@ c:\Users\prek9\OneDrive\Pictures\Screenshots\Screenshot 2025-10-26 161559.png
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/prem1kr/profile-and-gallery-app-Nextjs-.git
+cd profile-and-gallery-app
 ````
 
 ### 2️⃣ Install Dependencies
